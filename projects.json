@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "awesome",
+    "name": "awesome project",
     "description": "A beautifully crafted Android application showcasing modern architecture with MVVM, Coroutines, and Retrofit. Includes dark mode, animations, and offline support.",
     "language": "Kotlin",
     "stars": 1240,
